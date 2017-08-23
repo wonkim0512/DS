@@ -1,4 +1,4 @@
-# DS
+# DSA
 Data Structures and Algorithms
 
 Studying data structures and algorithms by myself is not a easy stuff.
